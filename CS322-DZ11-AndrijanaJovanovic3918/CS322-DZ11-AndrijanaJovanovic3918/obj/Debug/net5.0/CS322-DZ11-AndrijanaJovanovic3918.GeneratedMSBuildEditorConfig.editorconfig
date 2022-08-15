@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = CS322_DZ11_AndrijanaJovanovic3918
+build_property.ProjectDir = E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ11-AndrijanaJovanovic3918\CS322-DZ11-AndrijanaJovanovic3918\

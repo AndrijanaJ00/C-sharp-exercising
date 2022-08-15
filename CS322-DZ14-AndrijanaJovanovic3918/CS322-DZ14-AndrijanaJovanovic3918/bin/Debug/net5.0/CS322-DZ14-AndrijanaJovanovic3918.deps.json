@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CS322-DZ14-AndrijanaJovanovic3918/1.0.0": {
+        "runtime": {
+          "CS322-DZ14-AndrijanaJovanovic3918.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS322-DZ14-AndrijanaJovanovic3918/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\CS322-DZ05-Zadatak2.exe
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\CS322-DZ05-Zadatak2.deps.json
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\CS322-DZ05-Zadatak2.runtimeconfig.json
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\CS322-DZ05-Zadatak2.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\CS322-DZ05-Zadatak2.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\ref\CS322-DZ05-Zadatak2.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\bin\Debug\net5.0\CS322-DZ05-Zadatak2.pdb
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\ref\CS322-DZ05-Zadatak2.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.pdb
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak2\obj\Debug\net5.0\CS322-DZ05-Zadatak2.genruntimeconfig.cache

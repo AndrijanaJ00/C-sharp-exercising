@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\UserSerialization.exe
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\UserSerialization.deps.json
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\UserSerialization.runtimeconfig.json
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\UserSerialization.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\UserSerialization.dll
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\ref\UserSerialization.dll
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\bin\Debug\net5.0\UserSerialization.pdb
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.AssemblyInfo.cs
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.dll
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\ref\UserSerialization.dll
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.pdb
+C:\Users\Dell\Desktop\UserSerialization\UserSerialization\obj\Debug\net5.0\UserSerialization.genruntimeconfig.cache

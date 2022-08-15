@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.exe
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.deps.json
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.runtimeconfig.json
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\ref\CS322-DZ09-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.pdb
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\ref\CS322-DZ09-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.pdb
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918\CS322-DZ09-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ09-AndrijanaJovanovic3918.genruntimeconfig.cache

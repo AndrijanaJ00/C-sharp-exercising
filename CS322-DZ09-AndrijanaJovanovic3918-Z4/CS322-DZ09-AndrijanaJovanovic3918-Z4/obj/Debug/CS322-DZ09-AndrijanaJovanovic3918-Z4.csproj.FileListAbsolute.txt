@@ -1,0 +1,20 @@
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\bin\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.exe.config
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\bin\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.exe
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\bin\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.pdb
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322_DZ09_AndrijanaJovanovic3918_Z4.Form1.resources
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322_DZ09_AndrijanaJovanovic3918_Z4.Properties.Resources.resources
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.exe
+C:\Users\Dell\Desktop\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.pdb
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\bin\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.exe.config
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\bin\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.exe
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\bin\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.pdb
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.csproj.AssemblyReference.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322_DZ09_AndrijanaJovanovic3918_Z4.Form1.resources
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322_DZ09_AndrijanaJovanovic3918_Z4.Properties.Resources.resources
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.csproj.GenerateResource.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.csproj.CoreCompileInputs.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.exe
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ09-AndrijanaJovanovic3918-Z4\CS322-DZ09-AndrijanaJovanovic3918-Z4\obj\Debug\CS322-DZ09-AndrijanaJovanovic3918-Z4.pdb

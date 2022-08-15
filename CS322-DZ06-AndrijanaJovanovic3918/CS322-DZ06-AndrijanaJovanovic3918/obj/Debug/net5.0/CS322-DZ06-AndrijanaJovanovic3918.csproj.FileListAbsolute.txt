@@ -1,0 +1,32 @@
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.exe
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.deps.json
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.runtimeconfig.json
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\ref\CS322-DZ06-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.pdb
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\ref\CS322-DZ06-AndrijanaJovanovic3918.dll
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.pdb
+C:\Users\Dell\Desktop\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.genruntimeconfig.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.exe
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.deps.json
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.runtimeconfig.json
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.runtimeconfig.dev.json
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.dll
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\ref\CS322-DZ06-AndrijanaJovanovic3918.dll
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\bin\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.pdb
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.csproj.AssemblyReference.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.GeneratedMSBuildEditorConfig.editorconfig
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.AssemblyInfoInputs.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.AssemblyInfo.cs
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.csproj.CoreCompileInputs.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.dll
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\ref\CS322-DZ06-AndrijanaJovanovic3918.dll
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.pdb
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ06-AndrijanaJovanovic3918\CS322-DZ06-AndrijanaJovanovic3918\obj\Debug\net5.0\CS322-DZ06-AndrijanaJovanovic3918.genruntimeconfig.cache

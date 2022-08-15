@@ -1,0 +1,16 @@
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\CS322-DZ05-Zadatak1.exe
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\CS322-DZ05-Zadatak1.deps.json
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\CS322-DZ05-Zadatak1.runtimeconfig.json
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\CS322-DZ05-Zadatak1.runtimeconfig.dev.json
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\CS322-DZ05-Zadatak1.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\ref\CS322-DZ05-Zadatak1.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\bin\Debug\net5.0\CS322-DZ05-Zadatak1.pdb
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\ref\CS322-DZ05-Zadatak1.dll
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.pdb
+C:\Users\Dell\Desktop\CS322-DZ05-AndrijanaJovanovic3918\CS322-DZ05-Zadatak1\obj\Debug\net5.0\CS322-DZ05-Zadatak1.genruntimeconfig.cache

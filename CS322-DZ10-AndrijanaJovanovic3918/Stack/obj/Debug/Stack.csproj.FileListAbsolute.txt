@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\bin\Debug\Stack.exe.config
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\bin\Debug\Stack.exe
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\bin\Debug\Stack.pdb
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.Form1.resources
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.exe
+C:\Users\Dell\Desktop\CS322-DZ10-AndrijanaJovanovic3918\Stack\obj\Debug\Stack.pdb

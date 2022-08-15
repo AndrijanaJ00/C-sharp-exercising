@@ -1,0 +1,20 @@
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\bin\Debug\CS322-DZ07-AndrijanaJovanovic3918.exe.config
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\bin\Debug\CS322-DZ07-AndrijanaJovanovic3918.exe
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\bin\Debug\CS322-DZ07-AndrijanaJovanovic3918.pdb
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322_DZ07_AndrijanaJovanovic3918.Form1.resources
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322_DZ07_AndrijanaJovanovic3918.Properties.Resources.resources
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.exe
+C:\Users\Dell\Desktop\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.pdb
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\bin\Debug\CS322-DZ07-AndrijanaJovanovic3918.exe.config
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\bin\Debug\CS322-DZ07-AndrijanaJovanovic3918.exe
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\bin\Debug\CS322-DZ07-AndrijanaJovanovic3918.pdb
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.csproj.AssemblyReference.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322_DZ07_AndrijanaJovanovic3918.Form1.resources
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322_DZ07_AndrijanaJovanovic3918.Properties.Resources.resources
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.csproj.GenerateResource.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.csproj.CoreCompileInputs.cache
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.exe
+E:\3.godina\1.semestar\1. CS322 - C#\2. Domaci zadaci - CS322 - C#\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\CS322-DZ07-AndrijanaJovanovic3918\obj\Debug\CS322-DZ07-AndrijanaJovanovic3918.pdb
